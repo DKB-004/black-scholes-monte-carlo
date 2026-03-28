@@ -104,16 +104,6 @@ The Greeks are partial derivatives of the option price:
 
 ---
 
-## Tech Stack
-
-```
-Python 3.10+
-NumPy        — numerical computation
-SciPy        — norm.cdf(), norm.pdf() for Black-Scholes
-Matplotlib   — all visualisations
-yfinance     — real NSE market data
-```
-
 ## How to Run
 
 ```bash

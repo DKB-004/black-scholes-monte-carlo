@@ -1,4 +1,4 @@
-##Black-Scholes Option Pricing + Monte Carlo Risk Engine
+##Black-Scholes Option Pricing + Monte Carlo Risk Engine##
 
 This project implements two mathematical approaches to European option pricing and financial risk modelling:
 

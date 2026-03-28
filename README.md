@@ -31,7 +31,7 @@ Where:
 - $S$ = current stock price
 - $K$ = strike price  
 - $T$ = time to expiry (years)
-- $r$ = risk-free rate (RBI repo rate = 6.25%)
+- $r$ = risk-free rate (RBI repo rate = 5.25%)
 - $\sigma$ = annualised volatility
 - $N(\cdot)$ = cumulative standard normal distribution
 

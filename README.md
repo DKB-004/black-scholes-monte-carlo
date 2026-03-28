@@ -1,3 +1,8 @@
+# Black-Scholes Option Pricing + Monte Carlo Risk Engine
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue) 
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-orange)
+![SciPy](https://img.shields.io/badge/SciPy-1.10+-green)
 
 ## Overview
 

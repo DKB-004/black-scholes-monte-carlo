@@ -9,7 +9,14 @@ This project implements two mathematical approaches to European option pricing a
 4. **Real Market Validation** — applied to Reliance Industries (NSE) using RBI repo rate and historically computed volatility
 
 ---
-
+## Tech Stack
+```bash
+Python 
+NumPy        
+SciPy        
+Matplotlib  
+yfinance     
+```
 ## Mathematical Background
 
 ### Black-Scholes Formula

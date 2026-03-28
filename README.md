@@ -86,7 +86,7 @@ The Greeks are partial derivatives of the option price:
 | Stock price (S) | ₹1,282.98 |
 | Strike price (K) | ₹1,347.00 (5% OTM) |
 | Time to expiry | 3 months (T = 0.25) |
-| Risk-free rate | 6.25% (RBI repo rate) |
+| Risk-free rate | 5.25% (RBI repo rate) |
 | Historical volatility | 17.42% (annualised) |
 | **Call option price** | **₹27.25** |
 | **Put option price** | **₹69.56** |

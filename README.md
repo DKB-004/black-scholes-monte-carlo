@@ -56,19 +56,19 @@ The Greeks are partial derivatives of the option price:
 ## Results
 
 ### Call vs Put Prices
-![Call vs Put](plots/plot1_call_vs_put.png)
+![Call vs Put](Plots/plot1_call_vs_put.png)
 
 ### Monte Carlo Convergence (Law of Large Numbers)
-![MC Convergence](plots/plot2_mc_convergence.png)
+![MC Convergence](Plots/plot2_mc_convergence.png)
 
 ### Greeks — Delta and Gamma
-![Greeks](plots/plot3_greeks.png)
+![Greeks](Plots/plot3_greeks.png)
 
 ### 50 Simulated GBM Stock Price Paths
-![GBM Paths](plots/plot4_gbm_paths.png)
+![GBM Paths](Plots/plot4_gbm_paths.png)
 
 ### Real Market Data — Reliance Industries (NSE)
-![Reliance](plots/plot5_reliance_real_data.png)
+![Reliance](Plots/plot5_reliance_real_data.png)
 
 ---
 
